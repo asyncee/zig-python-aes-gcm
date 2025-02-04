@@ -2,7 +2,7 @@
 
 This example demonstrates how to create a shared library in Zig and then use it in python.
 
-The project is just a simple demo.
+The project is just a simple demo of encrypting message with AES GCM 128 in Python and decrypting it in Zig.
 
 ### Check zig installation
 
