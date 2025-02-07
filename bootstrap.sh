@@ -2,4 +2,4 @@
 
 rm -rf .venv
 python -m venv .venv
-.venv/bin/pip install cryptography
+.venv/bin/pip install cryptography cffi
